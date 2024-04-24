@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# macOS folder attributes
+._*
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# Swift Package Manager
+.build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
